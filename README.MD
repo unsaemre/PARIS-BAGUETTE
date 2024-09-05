@@ -52,3 +52,11 @@
 - 동영상 삽입하기
 
 - CSS를 활용한 애니메이션 효과
+
+<br>
+<br>
+<br>
+
+## 자세한 내용은 홈페이지에서 확인 해주세요.
+
+https://unsaemre.github.io/PARIS-BAGUETTE/page/main.html
