@@ -1,4 +1,4 @@
-![main](../PARIS%20BAGUETTE_clone/images/md/main.PNG)
+![main](https://github.com/user-attachments/assets/a3bacaa8-c08c-4016-9c2a-202f9ff12323)
 
 # PARIS BAGUETTE
 
