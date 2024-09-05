@@ -1,4 +1,4 @@
-![main](https://github.com/user-attachments/assets/85242022-98fc-4d34-aead-a99d50223303)
+![main](../PARIS%20BAGUETTE_clone/images/md/main.PNG)
 
 # PARIS BAGUETTE
 
@@ -27,15 +27,21 @@
 - 다양한 슬라이드 효과 (Slick, Swiper 등)
 - Jquery, Javascript를 활용한 슬라이더 효과
 
+<BR>
+
 ## Hover Effect
 
 - 이미지 확대 효과
 - 배경 투명도 변경 효과
 
+<BR>
+
 ## Media query
 
 - Media query를 이용한 반응형 웹사이트 제작
 - PC,모바일 모두 구현 가능
+
+<BR>
 
 ## 그 외
 
